@@ -96,7 +96,7 @@ This will start the bot with gui controls.
 So far the following signals have been implemented: 
 * Stop
 * Run Now  
-![Image of Gui](https://s9.postimg.org/a7da6tq8v/yugioh_duel_bots_gui.png)
+
 
 ## Wakatime
 
