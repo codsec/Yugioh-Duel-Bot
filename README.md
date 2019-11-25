@@ -1,13 +1,5 @@
 ## Yugioh Bot
 
-[![Join the chat at https://gitter.im/Yugioh-bot/Lobby](https://badges.gitter.im/Yugioh-bot/Lobby.svg)](https://gitter.im/Yugioh-bot/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Discord](https://img.shields.io/discord/392538066633359360.svg?colorB=0082ff&style=flat)](https://discord.gg/PGWedhf)
-[![Software License][ico-license]](LICENSE)
-[![Build status](https://ci.appveyor.com/api/projects/status/fk0j6na84w1mw7du/branch/master?svg=true)](https://ci.appveyor.com/project/will7200/yugioh-bot/branch/master)
-[![Coverage Status](https://coveralls.io/repos/github/will7200/Yugioh-bot/badge.svg?branch=master)](https://coveralls.io/github/will7200/Yugioh-bot?branch=master)
-[![Quality Score][ico-code-quality]][link-code-quality]
-
-
 Bot to help with those npc in Yugioh Duel Links.  
 Currently working on phasing python version into golang to help with better concurrent processes, data updates will be streamlined, and distribution will be easier.  
 Check the progress here [go port](https://github.com/will7200/Yugioh-bot/tree/go-yugioh).
